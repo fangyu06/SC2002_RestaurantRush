@@ -1,4 +1,3 @@
-package src;
 import java.util.Scanner;
 
 // Entry point of the game: wires the boundary (GameCLI) to the controller and starts it.
