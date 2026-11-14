@@ -8,7 +8,7 @@
 |---|---------|-----------|
 | 1 | The game launching from the submitted project | 4:12 |
 | 2 | Meaningful manager choices, including a decision where staff are constrained | 4:40 – 4:44 |
-| 3 | A dish going READY → SERVED → payment | 4:38 → 4:44 → 4:51 |
+| 3 | A dish going READY → SERVED → payment | 4:38, 4:44, 4:51 |
 | 4 | A VIP or Critic behaviour | 4:47 (VIP), 4:55 (Critic) |
 | 5 | A Stage 3 feature | 4:40 (Happy Hour), 4:43 (Host), 4:47 (ComboMeal) |
 | 6 | One victory and one defeat | 5:21 – 6:16 (victory), 6:17 – 6:57 (defeat) |
