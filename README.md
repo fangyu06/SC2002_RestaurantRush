@@ -1,5 +1,17 @@
 # SC2002_RestaurantRush
 
+## How to Build and Run
+
+**Requirements:** Java JDK 17 or later
+
+1. Open a terminal in the folder containing the `.java` files (e.g. `src/`).
+2. Compile:
+   javac *.java
+3. Run the game:
+   java Main
+4. (Optional) Run the integration tests:
+   java IntegrationTests
+   
 ## Video Timestamps
 
 ### Required segments
