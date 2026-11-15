@@ -1,5 +1,6 @@
 # SC2002_RestaurantRush
 
+Github Repo link: https://github.com/fangyu06/SC2002_RestaurantRush
 ## How to Build and Run
 
 **Requirements:** Java JDK 17 or later
